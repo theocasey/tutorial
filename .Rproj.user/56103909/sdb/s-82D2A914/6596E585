@@ -1,12 +1,12 @@
 {
-    "contents" : "1+1\n2+3\n",
+    "contents" : "1+1\n2+3\n3+4\n",
     "created" : 1422447878419.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "518862912",
+    "hash" : "210659180",
     "id" : "6596E585",
-    "lastKnownWriteTime" : 1422447887,
+    "lastKnownWriteTime" : 1422448147,
     "path" : "~/GitHub/tutorial/first.r",
     "project_path" : "first.r",
     "properties" : {
